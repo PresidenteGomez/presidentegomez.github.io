@@ -5,6 +5,7 @@ html, body {
   height:80%;
 }
 .container{
+   padding-right:30px;
   display: flex;
 }
 
