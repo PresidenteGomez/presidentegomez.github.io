@@ -4,4 +4,16 @@ html, body {
   width:80%;
   height:80%;
 }
+.container{
+  display: flex;
+}
 
+.extra {
+  padding-left:30px;
+  min-width:75%;
+}
+
+.experience {
+  text-align:center;
+  font-sice: 40px;
+}
