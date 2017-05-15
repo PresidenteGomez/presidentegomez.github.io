@@ -1,22 +1,51 @@
 html, body {
-  display:block;
-  font-family: sans-serif;
-  margin:8px;
-  padding:8px;
-  width:50%;
-  height:50%;
-  background: url(http://img.pandawhale.com/post-23421-Unicorn-yqXS.jpeg);
+  
+font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+;
+  margin:0px;
+  padding:45px;
+  width:70%;
+  height:8%;
+  background: url(https://s-media-cache-ak0.pinimg.com/originals/d0/e0/c4/d0e0c4157a27ae057fd70e3c50faea27.jpg)
 }
+
+.name {
+   
+  padding-left:11%;
+font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size:35px;
+}
+
 .container{
-   padding-right:30px;
-  display: flex;
+   padding-right:100px;
+  padding-left: 100px;
+  padding-bottom: 100px;
+margin-left:50px;
+  padding-left:23%;
+}
+
+.main{
+ 
 }
 
 .extra {
-  padding-left:30px;
-  min-width:75%;
+ 
 }
 
 .experience {
   min-width:75%;
 }
+h2{font-size:28px;
+}
+
+h3{
+  font-size:22px;
+}
+  
+a{ text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;}
+
+a:active {
+    text-decoration: underline;
